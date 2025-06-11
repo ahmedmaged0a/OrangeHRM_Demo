@@ -1,0 +1,46 @@
+{
+  "Login-credentials": {
+    "valid": {
+      "username": "",
+      "password": ""
+    },
+    "invalid": {
+      "username": "Admin",
+      "password": "admin12"
+    }
+  },
+  "Employee-credentials": {
+    "valid": {
+      "firstName": "Ahmed",
+      "middleName": "Maged",
+      "lastName": "Manea",
+      "employeeId": "02356",
+      "userName": "makedf09"
+    },
+    "valid2": {
+      "userName": "makedo30",
+      "employeeId": "1752"
+    },
+    "invalid": {
+      "firstName": "",
+      "lastName": "Maged",
+      "userName": "makeds23",
+      "employeeId": "0370"
+    }
+  },
+  "User-credentials": {
+    "valid": {
+      "username": "makedp07",
+      "password": "admin1234",
+      "userRole": "ESS",
+      "employeeName": "Jessica",
+      "status": "Enabled"
+    },
+    "invalid": {
+      "username": "ahmed",
+      "password": "123456",
+      "employeeName": "Jevara"
+    }
+  }
+
+}

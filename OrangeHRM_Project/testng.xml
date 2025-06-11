@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM Test Suite" verbose="2" parallel="methods" thread-count="5">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.oragneHRM.tests.E2ETest">
+                <methods>
+                    <include name="successfulLogin"/>
+                    <include name="unsuccessfulLogin"/>
+                    <include name="emptyLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Add Employee Test">
+        <classes>
+            <class name="com.oragneHRM.tests.E2ETest">
+                <methods>
+                    <include name="successfulAddEmployee"/>
+                    <include name="successfulAddUserFromPIM"/>
+                    <include name="unsuccessfullyAddWithEmptyField"/>
+                    <include name="unsuccessfullyAddWithExistingEmployeeId"/>
+                    <include name="unsuccessfulAddUserFromPIM"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Add User For Specific Employee">
+        <classes>
+            <class name="com.oragneHRM.tests.E2ETest">
+                <methods>
+                    <include name="successfullyAddUserFromAdmin"/>
+                    <include name="unsuccessfullyAddUserFromAdmin"/>
+                    <include name="unsuccessfullyAddUserEmptyEmp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

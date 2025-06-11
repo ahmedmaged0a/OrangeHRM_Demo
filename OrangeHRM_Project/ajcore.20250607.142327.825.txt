@@ -1,0 +1,139 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.21 built on Sunday Dec 10, 2023 at 18:55:52 PST
+---- Dump Properties ---
+Dump file: ajcore.20250607.142327.825.txt
+Dump reason: java.lang.ClassCircularityError
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+java.lang.ClassCircularityError: java/lang/Module$ReflectionData
+	at java.base/java.lang.Module.isReflectivelyExportedOrOpen(Module.java:766)
+	at java.base/java.lang.Module.implIsExportedOrOpen(Module.java:712)
+	at java.base/java.lang.Module.isExported(Module.java:651)
+	at java.base/sun.invoke.util.VerifyAccess.isClassAccessible(VerifyAccess.java:213)
+	at java.base/java.lang.invoke.MethodHandles$Lookup.isClassAccessible(MethodHandles.java:3810)
+	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrNull(MethodHandles.java:3776)
+	at java.base/java.lang.invoke.MethodHandles$Lookup.canBeCached(MethodHandles.java:4310)
+	at java.base/java.lang.invoke.MethodHandles$Lookup.linkMethodHandleConstant(MethodHandles.java:4276)
+	at java.base/java.lang.invoke.MethodHandleNatives.linkMethodHandleConstant(MethodHandleNatives.java:628)
+	at java.base/sun.net.www.protocol.jrt.JavaRuntimeURLConnection.<clinit>(JavaRuntimeURLConnection.java:56)
+	at java.base/sun.net.www.protocol.jrt.Handler.openConnection(Handler.java:42)
+	at java.base/java.net.URL.openConnection(URL.java:1258)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:661)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:150)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:862)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:134)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:326)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:276)
+	at java.xml/javax.xml.catalog.CatalogImpl.parse(CatalogImpl.java:295)
+	at java.xml/javax.xml.catalog.CatalogImpl.load(CatalogImpl.java:171)
+	at java.xml/javax.xml.catalog.CatalogManager.catalog(CatalogManager.java:73)
+	at java.xml/jdk.xml.internal.JdkCatalog.init(JdkCatalog.java:43)
+	at java.xml/jdk.xml.internal.XMLSecurityManager.prepareCatalog(XMLSecurityManager.java:305)
+	at java.xml/jdk.xml.internal.XMLSecurityManager.<init>(XMLSecurityManager.java:290)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl.<init>(SAXParserFactoryImpl.java:72)
+	at java.xml/jdk.xml.internal.JdkXmlUtils.getSAXFactory(JdkXmlUtils.java:441)
+	at java.xml/jdk.xml.internal.JdkXmlUtils.<clinit>(JdkXmlUtils.java:97)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ParserConfigurationSettings.<init>(ParserConfigurationSettings.java:102)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.<init>(XML11Configuration.java:485)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XIncludeAwareParserConfiguration.<init>(XIncludeAwareParserConfiguration.java:136)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XIncludeAwareParserConfiguration.<init>(XIncludeAwareParserConfiguration.java:93)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.SAXParser.<init>(SAXParser.java:121)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.SAXParser.<init>(SAXParser.java:101)
+	at java.xml/org.xml.sax.helpers.XMLReaderFactory.createXMLReader(XMLReaderFactory.java:152)
+	at org.aspectj.weaver.loadtime.definition.DocumentParser.getXMLReader(DocumentParser.java:165)
+	at org.aspectj.weaver.loadtime.definition.DocumentParser.saxParsing(DocumentParser.java:135)
+	at org.aspectj.weaver.loadtime.definition.DocumentParser.parse(DocumentParser.java:122)
+	at org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor.parseDefinitions(ClassLoaderWeavingAdaptor.java:288)
+	at org.aspectj.weaver.loadtime.DefaultWeavingContext.getDefinitions(DefaultWeavingContext.java:130)
+	at org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor.initialize(ClassLoaderWeavingAdaptor.java:173)
+	at org.aspectj.weaver.loadtime.Aj$ExplicitlyInitializedClassLoaderWeavingAdaptor.initialize(Aj.java:335)
+	at org.aspectj.weaver.loadtime.Aj$ExplicitlyInitializedClassLoaderWeavingAdaptor.getWeavingAdaptor(Aj.java:340)
+	at org.aspectj.weaver.loadtime.Aj$WeaverContainer.getWeaver(Aj.java:314)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:108)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:51)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:242)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:610)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:504)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+---- System Properties ---
+java.specification.version=23
+sun.cpu.isalist=amd64
+sun.jnu.encoding=UTF-8
+java.class.path=C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.4\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.4\plugins\testng\lib\testng-rt.jar;D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\target\test-classes;D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\target\classes;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-java\4.33.0\selenium-java-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-api\4.33.0\selenium-api-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.33.0\selenium-chrome-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.33.0\selenium-chromium-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-json\4.33.0\selenium-json-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.33.0\selenium-manager-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v135\4.33.0\selenium-devtools-v135-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v136\4.33.0\selenium-devtools-v136-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v137\4.33.0\selenium-devtools-v137-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.33.0\selenium-edge-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.33.0\selenium-firefox-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-http\4.33.0\selenium-http-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.33.0\selenium-ie-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.33.0\selenium-remote-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\com\google\guava\guava\33.4.8-jre\guava-33.4.8-jre.jar;C:\Users\ahmed\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\ahmed\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\ahmed\.m2\repository\com\google\errorprone\error_prone_annotations\2.36.0\error_prone_annotations-2.36.0.jar;C:\Users\ahmed\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-api\1.50.0\opentelemetry-api-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-context\1.50.0\opentelemetry-context-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.50.0\opentelemetry-exporter-logging-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.50.0\opentelemetry-sdk-common-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.50.0\opentelemetry-sdk-extension-autoconfigure-spi-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.50.0\opentelemetry-sdk-extension-autoconfigure-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.50.0\opentelemetry-sdk-trace-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.50.0\opentelemetry-sdk-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.50.0\opentelemetry-sdk-metrics-1.50.0.jar;C:\Users\ahmed\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.50.0\opentelemetry-sdk-logs-1.50.0.jar;C:\Users\ahmed\.m2\repository\net\bytebuddy\byte-buddy\1.17.5\byte-buddy-1.17.5.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-os\4.33.0\selenium-os-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.33.0\selenium-safari-driver-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\seleniumhq\selenium\selenium-support\4.33.0\selenium-support-4.33.0.jar;C:\Users\ahmed\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\ahmed\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\ahmed\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\ahmed\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-java\7.22.2\cucumber-java-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-core\7.22.2\cucumber-core-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-gherkin\7.22.2\cucumber-gherkin-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.2\cucumber-gherkin-messages-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\gherkin\32.1.1\gherkin-32.1.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\ahmed\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\ahmed\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\datatable\7.22.2\datatable-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\cucumber-plugin\7.22.2\cucumber-plugin-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\docstring\7.22.2\docstring-7.22.2.jar;C:\Users\ahmed\.m2\repository\io\cucumber\html-formatter\21.10.1\html-formatter-21.10.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\ahmed\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\ahmed\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ahmed\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\ahmed\.m2\repository\commons-io\commons-io\2.19.0\commons-io-2.19.0.jar;C:\Users\ahmed\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\ahmed\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ahmed\.m2\repository\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.3\log4j-slf4j2-impl-2.24.3.jar;C:\Users\ahmed\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.3\log4j-core-2.24.3.jar;C:\Users\ahmed\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\ahmed\.m2\repository\io\qameta\allure\allure-testng\2.24.0\allure-testng-2.24.0.jar;C:\Users\ahmed\.m2\repository\io\qameta\allure\allure-java-commons\2.24.0\allure-java-commons-2.24.0.jar;C:\Users\ahmed\.m2\repository\io\qameta\allure\allure-model\2.24.0\allure-model-2.24.0.jar;C:\Users\ahmed\.m2\repository\io\qameta\allure\allure-test-filter\2.24.0\allure-test-filter-2.24.0.jar
+java.vm.vendor=Oracle Corporation
+kotlinx.coroutines.debug.enable.mutable.state.flows.stack.trace=true
+sun.arch.data.model=64
+idea.test.cyclic.buffer.size=1048576
+user.variant=
+java.vendor.url=https://java.oracle.com/
+user.timezone=Africa/Cairo
+java.vm.specification.version=23
+os.name=Windows 11
+sun.java.launcher=SUN_STANDARD
+user.country=US
+sun.boot.library.path=C:\Users\ahmed\.jdks\openjdk-23.0.2\bin
+sun.java.command=com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket51835 @w@C:\Users\ahmed\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\ahmed\AppData\Local\Temp\idea_testng.tmp
+jdk.debug=release
+sun.cpu.endian=little
+user.home=C:\Users\ahmed
+user.language=en
+sun.stderr.encoding=UTF-8
+java.specification.vendor=Oracle Corporation
+java.version.date=2025-01-21
+java.home=C:\Users\ahmed\.jdks\openjdk-23.0.2
+file.separator=\
+java.vm.compressedOopsMode=Zero based
+sun.stdout.encoding=UTF-8
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+user.script=
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=23.0.2+7-58
+user.name=ahmed
+stdout.encoding=UTF-8
+path.separator=;
+kotlinx.coroutines.debug.enable.creation.stack.trace=false
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=UTF-8
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\ahmed\AppData\Local\Temp\
+java.version=23.0.2
+user.dir=D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+native.encoding=UTF-8
+kotlinx.coroutines.debug.enable.flows.stack.trace=true
+java.library.path=C:\Users\ahmed\.jdks\openjdk-23.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\OpenLogic\jre-21.0.7.6-hotspot\bin;C:\Program Files\OpenLogic\jre-17.0.12.7-hotspot\bin;c:\Users\ahmed\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Git\cmd;C:\MinGW\bin;C:\Users\ahmed\Desktop\WinBGIm-64\libbgi\include\bgi;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\ahmed\AppData\Local\Programs\Python\Launcher\;C:\Users\ahmed\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\CLion 2023.2.2\bin;c:\Users\ahmed\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\nodejs\;C:\Program Files\nodejs;C:\MinGW\bin;C:\Program Files\CMake\bin;C:\Program Files\CMake\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenLogic\jre-21.0.7.6-hotspot\bin;C:\Users\ahmed\AppData\Roaming\npm\node_modules\newman\bin;C:\Users\ahmed\scoop\apps\allure\2.34.0\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\OpenLogic\jre-21.0.7.6-hotspot\lib;C:\Users\ahmed\scoop\shims;c:\Users\ahmed\AppData\Local\Programs\Trae\bin;C:\Users\ahmed\AppData\Local\Programs\Python\Launcher\;C:\Users\ahmed\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\CLion 2023.2.2\bin;C:\Users\ahmed\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\ahmed\AppData\Roaming\npm;C:\Program Files\nodejs;C:\MinGW\bin;C:\Program Files\CMake\bin;C:\Program Files\OpenLogic\jre-17.0.12.7-hotspot\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\ahmed\scoop\apps\allure\2.34.0\bin;C:\Program Files\Java\jdk-21\bin;;.
+java.vm.info=mixed mode, sharing
+stderr.encoding=UTF-8
+java.vendor=Oracle Corporation
+java.vm.version=23.0.2+7-58
+java.rmi.server.randomIDs=true
+sun.io.unicode.encoding=UnicodeLittle
+debugger.agent.enable.coroutines=true
+java.class.version=67.0
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty

@@ -1,0 +1,1136 @@
+[DEBUG] - [2025-06-11 20:37:59] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\testng.xml"
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\0961952b-5ac9-45fc-8ef0-882e468cae59-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\0aa74d8b-0ad8-4fad-bec0-b9afe6f1d84e-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\0b649c58-3aa6-454f-a6f9-166a14780067-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\0beaae72-4a7f-48f6-9ebb-c2b7a7aea090-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\11ac3f54-1e49-4654-8dc2-249733be523e-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\12cdbef8-2184-418e-b33a-73be7a48d2a9-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\19ec3184-9881-44bb-abf8-930404ed4a4c-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\1b0f9f34-a0c1-441e-8ff4-9201eae8eb72-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\1c315f97-39a2-43e6-aa3c-f4365f23ca84-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\1fb6d8e1-69c4-455c-b574-5849d062cec6-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\229a5c09-876c-482d-90cc-58f7cfeb0a04-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\25343627-09a4-49b5-b3eb-13680bfa2a0e-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\27bbd3e6-7ff2-4dd7-aaab-fdb31d5f0d67-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\2d0532c4-3a0b-4ef6-a175-8b0db66d2413-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\3a252227-e9ee-48e6-b30d-78224f45e2e8-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\4e9aa6c6-cd9d-4b4b-b122-f2594cefa5c0-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\4f7a4d1e-7d70-4238-a971-0bba2d4cf5d7-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\50fc86f6-e979-4135-9b20-24fd09878f66-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\57a2644f-dcb6-4838-bad1-d27f749f7ca5-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\5b41c345-b845-4e59-8bb9-657b13d933be-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\5d158309-4c13-495e-85b2-450e5acfa327-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\5dd3fcf0-9936-480c-8c47-9f15db6ad52e-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\6d3e603c-e868-4bea-a15f-ac9151d01ec0-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\6d79e064-7a15-41a0-b5e5-2bd32206b823-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\6f448e6a-7176-4687-94dd-948b7ddc2dfd-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\7470fc6e-b8c1-4e56-b394-14cdf874ad23-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\7874cf6f-1788-4454-ba68-18db720d7adb-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\7b780f0d-9c75-468f-97d0-165fad55d940-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\7e30cffc-f810-4f5f-a736-a53d476c8f75-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\848ec1d1-d232-4ec9-ab41-a90ff3ebd11c-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\868ac792-79ba-4623-b8fb-0eb21b9fb001-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\86f4b8f1-b19b-471b-bbea-322635c5c600-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\8d7a6d94-c13d-41d0-a241-03075792f9bc-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\902c7024-4575-4bbb-8b0f-d3ece0214f31-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\920fa9cc-dd2c-43d1-b9bd-7b6f81b23701-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\a3ace2a4-eb25-440e-b080-1cf0f4244a67-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\a52a1ec4-bae6-438e-a77a-fc018a6861c3-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\a70b2537-4789-43ab-8a36-62393b39f7e2-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\a7b0294a-6d1a-48b2-b774-ff76a150becf-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\b1a72e4b-851a-4bae-96d9-62f75312ca43-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\b278310e-deed-44c5-a635-9d36617a403c-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\b38eb8a9-08c3-4346-be3d-61782ef6f09e-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\b7392d8c-f9ab-420a-99c4-504aa7159879-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\c0680ce1-9d4d-4906-8009-fe835e802fab-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\c35d284b-f4e1-4478-a8e8-7191fe977ed9-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\c5fa0270-a427-492c-a37d-3a927ad94f28-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\ca503694-a711-4212-b260-affd20243e80-attachment.txt
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\cdeb0cfa-595a-419c-a207-6424cfad71ac-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\d09bc726-ce00-4d8f-93db-54bae7e1f0ad-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\d47ef604-ae03-440c-b063-a36c9586a623-attachment
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\d6d62d59-a4ca-4cba-8851-61d1a384e920-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\d9b495f6-d886-42ff-a1a6-74b1e032be65-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\debe584e-da36-45d8-8cf0-5887c307f208-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\e2e6120d-1fda-40b9-85be-a3d0286cdcea-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\e7308b72-a96a-4ee1-96cb-12cd4f963860-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\e74151cc-2053-4084-856a-707097241376-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\e80b12f7-344c-4a02-9103-b9e2e9bc5a74-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\ee4c41a2-2514-4b90-b436-b43093a05e52-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\f2bd6946-9c77-4c3f-a1ab-626cbdb98ec7-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\f435c535-fb78-4ad8-903c-a59f085ff19d-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\f574a019-3e91-4eb5-9909-b69afa927766-container.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\allure-results\ffab4ed0-052f-4b4b-99ff-01112fd040e3-result.json
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-emptyLogin.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-successfulAddEmployee.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-successfulAddUserFromPIM.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-successfulLogin.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-successfullyAddUserFromAdmin.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfulAddUserFromPIM.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfulLogin.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfullyAddUserEmptyEmp.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfullyAddUserFromAdmin.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfullyAddWithEmptyField.png
+[INFO] - [2025-06-11 20:38:00] [main] [com.oragneHRM.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\screenshots\Passed-unsuccessfullyAddWithExistingEmployeeId.png
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-11 20:38:00] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\testng.xml
+
+[INFO] - [2025-06-11 20:38:01] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+[INFO] - [2025-06-11 20:38:01] [main] [org.testng.internal.Utils] - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+[INFO] - [2025-06-11 20:38:06] [TestNG-test-Login Tests-2] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:06] [TestNG-test-Login Tests-3] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:06] [TestNG-test-Login Tests-1] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:08] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[DEBUG] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[DEBUG] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:09] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['invalid']['username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:10] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: 
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['invalid']['password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: 
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin12
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:11] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message  with data: Required
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-emptyLogin.png
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.Listeners.TestNGListeners] - Test caseemptyLogin passed successfully.
+[INFO] - [2025-06-11 20:38:12] [TestNG-test-Login Tests-2] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-successfulLogin.png
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-3] [com.oragneHRM.Listeners.TestNGListeners] - Test casesuccessfulLogin passed successfully.
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-3] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text  with data: Invalid credentials
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-alert-content-text
+[INFO] - [2025-06-11 20:38:13] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:14] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-unsuccessfulLogin.png
+[INFO] - [2025-06-11 20:38:14] [TestNG-test-Login Tests-1] [com.oragneHRM.Listeners.TestNGListeners] - Test caseunsuccessfulLogin passed successfully.
+[INFO] - [2025-06-11 20:38:14] [TestNG-test-Login Tests-1] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:15] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+[INFO] - [2025-06-11 20:38:15] [main] [org.testng.internal.Utils] - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+[INFO] - [2025-06-11 20:38:21] [TestNG-test-Add Employee Test-5] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:21] [TestNG-test-Add Employee Test-4] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:21] [TestNG-test-Add Employee Test-1] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-2] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:22] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:23] [TestNG-test-Add Employee Test-3] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:23] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:23] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:23] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:25] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:25] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:25] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:26] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:27] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:28] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:29] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:30] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:30] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:30] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:30] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:31] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:31] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:32] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:33] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[DEBUG] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['invalid']['firstName']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:34] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[DEBUG] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['firstName']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='First Name']
+[DEBUG] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['firstName']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:35] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='First Name'] with data: 
+[DEBUG] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['invalid']['lastName']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[DEBUG] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['firstName']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:36] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Last Name'] with data: Maged
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='First Name'] with data: Ahmed
+[DEBUG] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['middleName']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:37] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='First Name'] with data: Ahmed
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[DEBUG] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['lastName']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='First Name'] with data: Ahmed
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[DEBUG] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['middleName']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Middle Name'] with data: Maged
+[DEBUG] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['lastName']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:38] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Last Name'] with data: Manea
+[DEBUG] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['invalid']['employeeId']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Last Name'] with data: Manea
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Middle Name'] with data: Maged
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //label[text()='Employee Id']/following::input[1] with data: 0370
+[DEBUG] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['lastName']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.xpath: //span[normalize-space()='Required']  with data: Required
+[INFO] - [2025-06-11 20:38:39] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-unsuccessfullyAddWithEmptyField.png
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-2] [com.oragneHRM.Listeners.TestNGListeners] - Test caseunsuccessfullyAddWithEmptyField passed successfully.
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-2] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Last Name'] with data: Manea
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[DEBUG] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['firstName']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:40] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.xpath: //span[normalize-space()='Employee Id already exists']  with data: Employee Id already exists
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Employee Id already exists']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[DEBUG] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['userName']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-unsuccessfullyAddWithExistingEmployeeId.png
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.Listeners.TestNGListeners] - Test caseunsuccessfullyAddWithExistingEmployeeId passed successfully.
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-3] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text  with data: Successfully Saved
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:41] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='First Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: makedf09
+[DEBUG] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-successfulAddEmployee.png
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-5] [com.oragneHRM.Listeners.TestNGListeners] - Test casesuccessfulAddEmployee passed successfully.
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-5] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='First Name'] with data: Ahmed
+[DEBUG] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['middleName']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:42] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Middle Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Middle Name'] with data: Maged
+[DEBUG] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['lastName']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Last Name']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Last Name'] with data: Manea
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid']['employeeId']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-switch-input.oxd-switch-input--active.--label-right
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[DEBUG] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['invalid']['userName']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //label[text()='Employee Id']/following::input[1] with data: 02356
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:43] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: makeds23
+[DEBUG] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Employee-credentials']['valid2']['employeeId']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //label[text()='Employee Id']/following::input[1]
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //label[text()='Employee Id']/following::input[1] with data: 1752
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:44] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message  with data: Username already exists
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-unsuccessfulAddUserFromPIM.png
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.Listeners.TestNGListeners] - Test caseunsuccessfulAddUserFromPIM passed successfully.
+[INFO] - [2025-06-11 20:38:45] [TestNG-test-Add Employee Test-4] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text  with data: Successfully Saved
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-successfulAddUserFromPIM.png
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.Listeners.TestNGListeners] - Test casesuccessfulAddUserFromPIM passed successfully.
+[INFO] - [2025-06-11 20:38:46] [TestNG-test-Add Employee Test-1] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:38:48] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+[INFO] - [2025-06-11 20:38:48] [main] [org.testng.internal.Utils] - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+[INFO] - [2025-06-11 20:38:52] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:53] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:53] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:55] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //p[@class='oxd-text oxd-text--p']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //p[@class='oxd-text oxd-text--p']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['username'] new value Admin
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.username
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.JsonContext] - Set path $['Login-credentials']['valid']['password'] new value admin123
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.JsonUtils] - Successfully set JSON data at path: Login-credentials.valid.password
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Username']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Username'] with data: Admin
+[DEBUG] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['Login-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:56] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: input[placeholder='Password']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.cssSelector: input[placeholder='Password'] with data: admin123
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:57] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:38:58] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:58] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:58] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.BrowserActions] - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[INFO] - [2025-06-11 20:38:58] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers
+[INFO] - [2025-06-11 20:38:58] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.BrowserActions] - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:38:59] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //button[normalize-space()='Add']
+[DEBUG] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['userRole']
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:00] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['userRole']
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['userRole']
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Selected option: ESS from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['status']
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Selected option: ESS from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['status']
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:01] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Selected option: Enabled from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Selected option: ESS from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['status']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Selected option: Enabled from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: makedp07
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Selected option: Enabled from dropdown: [unknown locator]
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['username']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: makedp07
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: makedp07
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:02] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['invalid']['employeeName']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['password']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[DEBUG] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['User-credentials']['valid']['employeeName']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //input[@placeholder='Type for hints...']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Sending data to element: By.xpath: //input[@placeholder='Type for hints...'] with data: Jevara
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: [unknown locator]
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Sending data to element: [unknown locator] with data: admin1234
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be located: By.xpath: //div[contains(@class,'oxd-autocomplete-dropdown')]//div[@role='option']//span
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message  with data: Invalid
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: .oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:03] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-unsuccessfullyAddUserFromAdmin.png
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.Listeners.TestNGListeners] - Test caseunsuccessfullyAddUserFromAdmin passed successfully.
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-2] [com.oragneHRM.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //div[contains(@class,'oxd-autocomplete-dropdown')]//div[@role='option']//span
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.Scrolling] - Scrolling to By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:04] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Handled AutoComplete for: By.xpath: //input[@placeholder='Type for hints...'] with value: Jessica
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be clickable: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be visible: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Waits] - Waiting for element to be present: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Getting text from element: By.xpath: //span[normalize-space()='Required']  with data: Required
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.ElementActions] - Finding element: By.xpath: //span[normalize-space()='Required']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.Scrolling] - Scrolling to By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-1] [com.oragneHRM.utils.ElementActions] - Finding element: By.cssSelector: button[type='submit']
+[INFO] - [2025-06-11 20:39:05] [TestNG-test-Add User For Specific Employee-3] [com.oragneHRM.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\OrangeHRM_Project\test-outputs\logs\log_2025-06-11_20-37-59.log
