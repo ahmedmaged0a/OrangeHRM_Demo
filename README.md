@@ -1,4 +1,4 @@
-# 🧪 OrangeHRM Automation Testing Project
+# 🧪 OrangeHRM Automation Testing Demo Project
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Allure](https://img.shields.io/badge/Reporting-Allure-purple)
 
