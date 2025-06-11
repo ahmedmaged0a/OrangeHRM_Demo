@@ -1,8 +1,5 @@
 # 🧪 OrangeHRM Automation Testing Project
-
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![TestNG](https://img.shields.io/badge/Test-Framework-TestNG-yellow)
-![POM](https://img.shields.io/badge/Design-Pattern-POM-green)
 ![Allure](https://img.shields.io/badge/Reporting-Allure-purple)
 
 This is a **demo automation testing project** for the [OrangeHRM](https://www.orangehrm.com/) web application. It focuses on automating critical end-to-end user scenarios using the **TestNG framework**, **Page Object Model (POM)**, and **Fluent Interface Pattern**.
@@ -48,14 +45,14 @@ This is a **demo automation testing project** for the [OrangeHRM](https://www.or
 ---
 
 ## 📁 Project Structure
-com.oragneHRM/
-├── drivers/ # Browser setup and driver manager
-├── pages/ # Page Object Model classes
-├── utils/ # Utilities (JSON, browser, properties)
-├── Listeners/ # TestNG listeners
-├── tests/ # Test classes (E2E and grouped tests)
-└── resources/
-└── test-data.json # Test data file
+  com.oragneHRM/
+  ├── drivers/ → Browser Driver Manager
+  ├── listeners/ → TestNG Listeners
+  ├── pages/ → POM Classes (LoginPage, PIMPage, etc.)
+  ├── tests/ → TestNG Test Classes (E2ETest.java)
+  ├── utils/ → Utility Classes (JSON, Properties, Actions)
+  └── resources/
+  └── test-data.json → Test Data
 
 ---
 
